@@ -86,8 +86,7 @@ should not have multiple worksheets, no macros should be applied to the data, an
 Alternatively share the data in a [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) or [TAB-delimited](http://en.wikipedia.org/wiki/Tab-separated_values) text file. (Beware however that reading CSV files into Excel can sometimes lead to non-reproducible handling of date and time variables.)
 
 
-### The code book
-
+### This is a markdown with ZZ
 For almost any data set, the measurements you calculate will need to be described in more detail than you can or should sneak
 into the spreadsheet. The code book contains this information. At minimum it should contain:
 
